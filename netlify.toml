@@ -1,0 +1,6 @@
+functions = "netlify/functions"
+
+publish = "public"  # Directory for static files
+
+functions = "netlify/functions"
+
